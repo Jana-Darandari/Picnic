@@ -1,0 +1,41 @@
+{
+  "options": [
+    {
+      "id": "red",
+      "lines": [
+        "Guess what's",
+        "in the box"
+      ],
+      "label": "Guess what's in the box",
+      "color": "#a8404d",
+      "ink": "#8a303c",
+      "icon": "icon-box",
+      "order": 2,
+      "blurb": "Reach in, feel around, and name the mystery item before you peek."
+    },
+    {
+      "id": "teal",
+      "lines": [
+        "White",
+        "board"
+      ],
+      "label": "White board",
+      "color": "#5f9a96",
+      "ink": "#3f7673",
+      "icon": "icon-board",
+      "blurb": "Grab a marker and get your idea up on the board."
+    },
+    {
+      "id": "blue",
+      "lines": [
+        "Police",
+        "suspect"
+      ],
+      "label": "Police suspect",
+      "color": "#6c88b4",
+      "ink": "#4a6591",
+      "icon": "icon-badge",
+      "blurb": "Step up to the line. The questioning starts now."
+    }
+  ]
+}
